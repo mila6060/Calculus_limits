@@ -1,13 +1,23 @@
-# Виртуальное окружение
-venv/
-
-# Кэш Python
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+*.so
 
-# Файлы IDE
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
 .vscode/
 .idea/
+*.swp
+*.swo
 
-# Системные файлы
+# OS
 .DS_Store
+Thumbs.db
+
+# Logs
+*.log
