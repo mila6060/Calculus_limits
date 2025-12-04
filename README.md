@@ -45,3 +45,6 @@ pip3 install -r requirements.txt
 #Запуск файла main.py 
 python main.py
 python3 main.py
+#Запуск файла calculator.py
+python calculator.py
+python3 calculator.py
