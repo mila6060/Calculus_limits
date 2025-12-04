@@ -42,4 +42,6 @@ cd CALCULUS_LIMITS
 # Установка зависимостей
 pip install -r requirements.txt
 pip3 install -r requirements.txt
-#Запуск файла 
+#Запуск файла main.py 
+python main.py
+python3 main.py
