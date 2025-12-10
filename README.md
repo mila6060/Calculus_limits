@@ -36,7 +36,7 @@ cat > README.md << 'EOF'
 ### Шаги установки
 ```bash
 # Клонирование репозитория (если используется Git)
-git clone <URL репозитория>
+git clone 
 cd CALCULUS_LIMITS
 
 # Установка зависимостей
